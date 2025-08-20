@@ -2,6 +2,7 @@
 
 # 🌍 Kongali1720 Web Program Registration  
 
+<!-- Badge sejajar -->
 <p align="center">
   <a href="https://docs.google.com/forms/d/e/1FAIpQLSefwbdB7QHRmP6wPpGVLNS-JXzyPp7WY-vyliWV0U1wgBT14g/viewform">
     <img src="https://img.shields.io/badge/Google%20Form-Register%20Now-brightgreen?style=for-the-badge&logo=googleforms"/>
@@ -14,7 +15,11 @@
   </a>
 </p>
 
+<!-- Giphy ditengah -->
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWlpNHViaTF4eWMzaXQzZWVwdXJieWpodWtvODB6OW5tZ3RhZ3RvbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZgTR3UQ9XAWDvqy9jv/giphy.gif" width="400"/>
+
 </div>
+
 
 ---
 
