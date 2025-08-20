@@ -52,6 +52,24 @@ Proyek ini dibuat untuk memudahkan:
 
 ---
 
+```mermaid
+flowchart TD
+    A[Start: Marketing shares program link]:::all --> B[Send personally to friends & network]:::all
+    B --> C[Explain benefits of the program]:::all
+    C --> D[Offer help or demo, e.g. Zoom]:::all
+    D --> E[Friends decide to join or not]:::all
+    E --> F{Joined?}:::all
+    F -- Yes --> G[Client registered successfully]:::all
+    F -- No --> H[Follow up politely after a few days]:::all
+    H --> E
+    G --> I[Repeat process for referrals]:::all
+
+    classDef all fill:#39FF14,stroke:#333,stroke-width:2px,color:#000;
+```
+
+
+---
+
 ## 🤝 Kontribusi  
 
 Kalau ingin bantu kembangkan, silakan fork repo ini, lalu ajukan pull request.  
